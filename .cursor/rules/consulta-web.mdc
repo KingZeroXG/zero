@@ -1,0 +1,6 @@
+---
+description: La palabra consulta significa buscar solo en la web
+alwaysApply: true
+---
+
+Cuando el usuario diga la palabra "consulta", busca en la web (internet). No busques en repositorios ni en el código local.
